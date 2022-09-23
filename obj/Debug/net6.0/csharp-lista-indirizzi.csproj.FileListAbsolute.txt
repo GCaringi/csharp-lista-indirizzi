@@ -1,0 +1,15 @@
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\bin\Debug\net6.0\csharp-lista-indirizzi.exe
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\bin\Debug\net6.0\csharp-lista-indirizzi.deps.json
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\bin\Debug\net6.0\csharp-lista-indirizzi.runtimeconfig.json
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\bin\Debug\net6.0\csharp-lista-indirizzi.dll
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\bin\Debug\net6.0\csharp-lista-indirizzi.pdb
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.csproj.AssemblyReference.cache
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.AssemblyInfoInputs.cache
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.AssemblyInfo.cs
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.csproj.CoreCompileInputs.cache
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.dll
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\refint\csharp-lista-indirizzi.dll
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.pdb
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\csharp-lista-indirizzi.genruntimeconfig.cache
+C:\Users\Caringi's\RiderProjects\csharp-lista-indirizzi\obj\Debug\net6.0\ref\csharp-lista-indirizzi.dll
